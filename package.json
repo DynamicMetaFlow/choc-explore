@@ -5,7 +5,8 @@
     "DynamicMetaFlow/grunt-generator": "0.4.1",
     "haml-coffee": "~1.11.4",
     "grunt-cli": "~0.1.9",
-    "ent": "~0.1.0"
+    "ent": "~0.1.0",
+    "bower": "0.x.x"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
