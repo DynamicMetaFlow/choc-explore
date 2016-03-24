@@ -2,7 +2,7 @@
   "name": "blue",
   "version": "0.0.0",
   "dependencies": {
-    "DynamicMetaFlow/grunt-generator": "0.4.1",
+    "grunt-generator": "DynamicMetaFlow/grunt-generator",
     "haml-coffee": "~1.11.4",
     "grunt-cli": "~0.1.9",
     "ent": "~0.1.0",
