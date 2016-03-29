@@ -18,4 +18,4 @@ server:
 
 develop:
 	cd ../choc && make develop
-	bower link choc
+	bower link choc --allow-root
