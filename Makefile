@@ -3,10 +3,10 @@
 all: build
 
 build:
-	grunt build
+	./node_modules/.bin/grunt build
 
 clean:
-	grunt clean
+	./node_modules/.bin/grunt clean
 
 install:
 	bundle install
@@ -14,7 +14,7 @@ install:
 	./node_modules/.bin/grunt install
 
 server:
-	grunt server
+	./node_modules/.bin/grunt server
 
 develop:
 	cd ../choc && make develop
